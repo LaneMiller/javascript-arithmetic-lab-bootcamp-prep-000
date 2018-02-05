@@ -1,5 +1,15 @@
-function add(){
+function add() {
   
 }
 
-function subtract(), multiply(), divide()
+function subtract() {
+  
+}
+
+function multiply() {
+  
+}
+
+function divide() {
+  
+}
